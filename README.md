@@ -1,4 +1,4 @@
-👋 Hi there! I'm AleNumber15, a software engineering student and aspiring junior programmer. I go by He/Him/She/Her pronouns.
+👋 Hi there! I'm AleNumber15, a software engineering student and aspiring junior programmer. I go by He/Him pronouns.
 
 🎓 Currently, I'm honing my skills in both English and Spanish languages.
 
